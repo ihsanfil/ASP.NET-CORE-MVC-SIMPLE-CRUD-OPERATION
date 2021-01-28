@@ -173,3 +173,4 @@ C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\ne
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.dll
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.pdb
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.genruntimeconfig.cache
+C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.csprojAssemblyReference.cache
