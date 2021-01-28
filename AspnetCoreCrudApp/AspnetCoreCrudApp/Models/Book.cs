@@ -25,6 +25,8 @@ namespace AspnetCoreCrudApp.Models
         public double Price { get; set; }
         [Required(ErrorMessage = "Adet doldurmak zorunludur !")]
 
+        public string BookLang { get; set; }
+
         public int StockQuantity { get; set; }
         public Category Category { get; set; }
     }

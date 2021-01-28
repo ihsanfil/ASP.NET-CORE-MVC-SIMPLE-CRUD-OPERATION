@@ -37,7 +37,6 @@ namespace AspnetCoreCrudApp
                 app.UseDeveloperExceptionPage();
 
             app.UseStaticFiles();
-
             using (var serviceScope = app.ApplicationServices.CreateScope())
             {
                 //Uygulamanýn kullandýðý DatabaseContext sýnýfýndan bir örnek alýyoruz.
