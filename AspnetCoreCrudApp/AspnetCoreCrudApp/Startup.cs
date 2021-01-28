@@ -34,14 +34,17 @@ namespace AspnetCoreCrudApp
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
-            {
                 app.UseDeveloperExceptionPage();
-            }
-            else
-            {
-                app.UseExceptionHandler("/Home/Error");
-            }
+
             app.UseStaticFiles();
+
+            using (var serviceScope = app.ApplicationServices.CreateScope())
+            {
+                //Uygulamanýn kullandýðý DatabaseContext sýnýfýndan bir örnek alýyoruz.
+                BookStoreContext context = serviceScope.ServiceProvider.GetRequiredService<BookStoreContext>();
+                //DbContext'i migrate ediyoruz.
+                context.Database.Migrate();
+            }
 
             app.UseRouting();
 
@@ -51,8 +54,9 @@ namespace AspnetCoreCrudApp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Books}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
         }
     }
 }

@@ -145,8 +145,6 @@ C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\bin\Debug\ne
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.AssemblyInfoInputs.cache
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.AssemblyInfo.cs
-C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.csproj.CoreCompileInputs.cache
-C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.RazorAssemblyInfo.cache
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.RazorAssemblyInfo.cs
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.TagHelpers.input.cache
@@ -174,3 +172,6 @@ C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\ne
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.pdb
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.genruntimeconfig.cache
 C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\CORE-CRUD\AspnetCoreCrudApp\AspnetCoreCrudApp\obj\Debug\netcoreapp3.1\AspnetCoreCrudApp.MvcApplicationPartsAssemblyInfo.cache

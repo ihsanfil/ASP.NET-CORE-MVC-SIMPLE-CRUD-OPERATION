@@ -11,6 +11,8 @@ namespace AspnetCoreCrudApp.Models
         public int Id { get; set; }
         [Required(ErrorMessage = "Kategori ismini doldurmak zorunludur !")]
         public string CategoryName { get; set; }
+        public string CategoryLang{ get; set; }
+        public string CategoryDate{ get; set; }
         public List<Book> Books { get; set; }
     }
 }
